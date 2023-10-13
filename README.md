@@ -1,4 +1,6 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFAFF5&center=true&vCenter=true&random=false&width=435&lines=Hi+there+I'm+Inhyeok+🐱‍🏍)](https://git.io/typing-svg)
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFAFF5&center=true&vCenter=true&random=false&width=435&lines=Hi+there+I'm+Inhyeok+🐱‍🏍" alt="Typing SVG">
+</h3>
 
 <h3 align = "center"> 🍀Skill </h3>
 <p align = "center">
