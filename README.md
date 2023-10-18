@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
-<h3 align = "center"> 📚Study </h3>
+<h3 align = "center"> 📚Study📚 </h3>
 <p align = "center">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
