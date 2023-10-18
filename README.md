@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFAFF5&center=true&vCenter=true&random=false&width=435&lines=Hi+there+I'm+Inhyeok+🐱‍🏍" alt="Typing SVG">
 </h3>
 
-<h3 align = "center"> 🍀Skill </h3>
+<h3 align = "center"> 🍀Skill🍀 </h3>
 <p align = "center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
